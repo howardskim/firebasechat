@@ -1,0 +1,8 @@
+.home-container{
+    display: flex;
+    height: calc(100vh - 125px);
+}
+
+.home-container > a {
+    margin: auto;
+}
